@@ -11,3 +11,4 @@
 <h2>Technologies used</h2>
     
 <h2> Project link </h2>
+<a href="https://secret-number-fawn.vercel.app/">Vercel Link</a>
