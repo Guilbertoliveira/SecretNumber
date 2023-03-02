@@ -1,7 +1,39 @@
 @import 'variable';
+@import 'header';
+
+
 
 body {
     font-family: $fontepadrao;
     background-color: $cor-secundaria;
     color: $cor-primaria;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    transition: 2s;
+
+    h1 {
+        font-size: 4em;
+    }
+    h3 {
+        margin-top: 10px;
+       font-size: 2em; 
+    }
+    .mensagem {
+        font-size: 1.5em;
+        margin-top: 20px;
+        .box {
+            border: 2px solid $cor-primaria;
+            border-radius: 10px;
+            margin: 20px;
+            display: inline-block;
+            font-size: 3em;
+        }
+    }
+    
+    
 }

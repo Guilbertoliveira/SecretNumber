@@ -52,8 +52,98 @@ table {
   border-spacing: 0;
 }
 
+header input {
+  display: none;
+}
+header label {
+  background: url("../img/summer.png");
+  padding: 50px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: 70px;
+  top: 10px;
+  left: 10px;
+  cursor: pointer;
+  transition: 2s;
+}
+
+.modoclaro {
+  color: #AD7BE9;
+  background-color: #3E54AC;
+  transition: 1s;
+}
+.modoclaro label {
+  background: url("../img/night.png");
+  padding: 50px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: 45px;
+  top: 10px;
+  left: 10px;
+  cursor: pointer;
+  transition: 2s;
+}
+
 body {
   font-family: "Vast Shadow", cursive;
   background-color: #191825;
   color: #865DFF;
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  transition: 2s;
+}
+body h1 {
+  font-size: 4em;
+}
+body h3 {
+  margin-top: 10px;
+  font-size: 2em;
+}
+body .mensagem {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+body .mensagem .box {
+  border: 2px solid #865DFF;
+  border-radius: 10px;
+  margin: 20px;
+  display: inline-block;
+  font-size: 3em;
+}
+
+header input {
+  display: none;
+}
+header label {
+  background: url("../img/summer.png");
+  padding: 50px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: 70px;
+  top: 10px;
+  left: 10px;
+  cursor: pointer;
+  transition: 2s;
+}
+
+.modoclaro {
+  color: #AD7BE9;
+  background-color: #3E54AC;
+  transition: 1s;
+}
+.modoclaro label {
+  background: url("../img/night.png");
+  padding: 50px;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: 45px;
+  top: 10px;
+  left: 10px;
+  cursor: pointer;
+  transition: 2s;
 }/*# sourceMappingURL=style.css.map */
