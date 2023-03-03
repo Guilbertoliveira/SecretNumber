@@ -9,7 +9,7 @@
 <p>Aplication with target developer get voice of user</p>
 
 <h2>Suggestion used</h2>
-</p>Recommended use for using the application is Google Chrome by API (SpeechRecognition)</p>
+</p>Recommended use for using the application is Google Chrome by API (Web Speech API)</p>
 
 <h2 >Version Mobile</h2>
 
