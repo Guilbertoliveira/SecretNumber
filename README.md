@@ -7,6 +7,10 @@
 
 <h2>Project description</h2>
 <p>Aplication with target developer get voice of user</p>
+
+<h2>Suggestion used</h2>
+</p>Recommended use for using the application is Google Chrome by API (SpeechRecognition)</p>
+
 <h2 >Version Mobile</h2>
 
 <h2>Version Desktop</h2>
