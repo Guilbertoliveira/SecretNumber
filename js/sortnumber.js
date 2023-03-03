@@ -2,6 +2,7 @@ const menorValor = 1
 const maiorValor = 100
 const numeroScreto = gerarNumeroAleatorio()
 
+
 document.getElementById('menor-valor').textContent = menorValor;
 document.getElementById('maior-valor').textContent = maiorValor;
 
