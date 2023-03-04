@@ -1,6 +1,10 @@
 <div align="center">
 <img src="https://github.com/Guilbertoliveira/SecretNumber/blob/main/img/dice.svg" width="45">
 <h1>SecretNumber </h1>
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/SecretNumber" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/SecretNumber" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/SecretNumber" />
+
 </div>
 
 <h2>:hammer:Project Status:hammer:</h2>
