@@ -28,6 +28,14 @@ function verificaValido(chute)
     <h2 class="acertou">você acertou</h2>
     <h3 class="acertou">Numero secreto era ${numeroSecreto}</h3>
     `
+   } else if (numero < numeroSecreto) {
+    elementoChute.innerHTML += `
+     <div>O numero secreto é maior <i class="fa-solid fa-turn-up"></i></div>
+    `
+   } else if (numero > numeroSecreto) {
+    elementoChute.innerHTML += `
+    <div>O numero secreto é menor <i class="fa-solid fa-turn-down"></i></div>
+   `
    }
 }
 

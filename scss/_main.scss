@@ -16,6 +16,7 @@ body {
     flex-direction: column;
     transition: 2s;
 
+
     h1 {
         font-size: 4em;
     }
@@ -26,6 +27,7 @@ body {
     .mensagem {
         font-size: 1.5em;
         margin-top: 20px;
+
         .box {
             border: 2px solid $cor-primaria;
             border-radius: 10px;
