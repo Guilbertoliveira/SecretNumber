@@ -146,4 +146,13 @@ header label {
   left: 10px;
   cursor: pointer;
   transition: 2s;
+}
+
+.invalido {
+  color: #E96479;
+}
+
+.acertou {
+  color: #7DB9B6;
+  font-size: 86px;
 }/*# sourceMappingURL=style.css.map */
