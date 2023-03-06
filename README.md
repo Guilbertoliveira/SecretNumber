@@ -18,6 +18,8 @@
 <h2 >Version Mobile</h2>
 
 <h2>Version Desktop</h2>
+<img src="https://user-images.githubusercontent.com/41201436/222994991-9141e034-fe44-4e94-960e-a38b98ff5016.gif">
+
 
 <h2>Technologies used</h2>
         <p>
