@@ -4,6 +4,7 @@
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/SecretNumber" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/SecretNumber" />
 <img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/SecretNumber" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/SecretNumber" />
 
 </div>
 
