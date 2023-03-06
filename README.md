@@ -8,9 +8,9 @@
 </div>
 
 <h2>:hammer:Project Status:hammer:</h2>
-
+<p>Javascript part finalized, but I will add a mobile version;</p>
 <h2>Project description</h2>
-<p>Aplication with target developer get voice of user</p>
+<p>Aplication with target developer get voice of user, project also has night mode and accounting for player errors</p>
 
 <h2>Suggestion used</h2>
 </p>Recommended use for using the application is Google Chrome by API (Web Speech API)</p>
