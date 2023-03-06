@@ -63,7 +63,7 @@ header .chances {
 }
 header .chances p {
   font-family: "Vast Shadow", cursive;
-  color: #865DFF;
+  color: whitesmoke;
   padding-right: 100px;
   font-size: 48px;
 }
@@ -146,6 +146,30 @@ body main #buttonStart:hover {
   background-color: #865DFF;
 }
 
+@media screen and (max-width: 480px) {
+  body header {
+    width: 100vw;
+    height: 20vh;
+  }
+  body header .chances p {
+    padding-right: 10px;
+    font-size: 40px;
+    color: white;
+  }
+  body main {
+    height: 80vh;
+    justify-content: start;
+  }
+  body main h1 {
+    font-size: 20px;
+  }
+  body main h3 {
+    font-size: 30px;
+  }
+  body main div {
+    font-size: 18px;
+  }
+}
 header {
   display: flex;
   height: 10vh;
@@ -157,7 +181,7 @@ header .chances {
 }
 header .chances p {
   font-family: "Vast Shadow", cursive;
-  color: #865DFF;
+  color: whitesmoke;
   padding-right: 100px;
   font-size: 48px;
 }
