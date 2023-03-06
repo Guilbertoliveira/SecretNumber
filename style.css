@@ -115,6 +115,19 @@ body .mensagem .box {
   display: inline-block;
   font-size: 3em;
 }
+body #buttonStart {
+  font-family: "Vast Shadow", cursive;
+  background-color: transparent;
+  padding: 10px;
+  color: #7DB9B6;
+  border: 2px solid white;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+body #buttonStart:hover {
+  background-color: #865DFF;
+}
 
 header input {
   display: none;

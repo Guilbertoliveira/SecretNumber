@@ -36,6 +36,20 @@ body {
             font-size: 3em;
         }
     }
+
+    #buttonStart{
+        font-family: $fontepadrao;
+        background-color: transparent;
+        padding: 10px;
+        color: #7DB9B6;
+        border: 2px solid white;
+        border-radius: 10px;
+        margin-top: 10px;
+        cursor: pointer;
+        &:hover {
+            background-color: $cor-primaria
+        }
+    }
     
     
 }
