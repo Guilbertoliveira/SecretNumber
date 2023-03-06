@@ -2,55 +2,58 @@
 @import 'header';
 
 
-
 body {
-    font-family: $fontepadrao;
-    background-color: $cor-secundaria;
-    color: $cor-primaria;
-    font-size: 28px;
-    display: flex;
-    justify-content: center;
-    height: 100vh;
-    align-items: center;
-    text-align: center;
-    flex-direction: column;
-    transition: 2s;
+    background-color: $cor-secundaria;    
 
-
-    h1 {
-        font-size: 4em;
-    }
-    h3 {
-        margin-top: 10px;
-       font-size: 2em; 
-    }
-    .mensagem {
-        font-size: 1.5em;
-        margin-top: 20px;
-
-        .box {
-            border: 2px solid $cor-primaria;
-            border-radius: 10px;
-            margin: 20px;
-            display: inline-block;
-            font-size: 3em;
-        }
-    }
-
-    #buttonStart{
+    main {
         font-family: $fontepadrao;
-        background-color: transparent;
-        padding: 10px;
-        color: #7DB9B6;
-        border: 2px solid white;
-        border-radius: 10px;
-        margin-top: 10px;
-        cursor: pointer;
-        &:hover {
-            background-color: $cor-primaria
+        color: $cor-primaria;
+        font-size: 28px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        transition: 2s;
+        height: 90vh;
+    
+    
+        h1 {
+            font-size: 4em;
         }
+        h3 {
+            margin-top: 10px;
+           font-size: 2em; 
+        }
+        .mensagem {
+            font-size: 1.5em;
+            margin-top: 20px;
+    
+            .box {
+                border: 2px solid $cor-primaria;
+                border-radius: 10px;
+                margin: 20px;
+                display: inline-block;
+                font-size: 3em;
+            }
+        }
+    
+        #buttonStart{
+            font-family: $fontepadrao;
+            background-color: transparent;
+            padding: 10px;
+            color: #7DB9B6;
+            border: 2px solid white;
+            border-radius: 10px;
+            margin-top: 10px;
+            cursor: pointer;
+            &:hover {
+                background-color: $cor-primaria
+            }
+        }
+        
+        
     }
     
     
 }
-

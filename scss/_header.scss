@@ -1,6 +1,23 @@
 @import 'variable';
 
 header {
+    display: flex;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+
+
+    .chances {
+        text-align: center;
+        p{
+            font-family: $fontepadrao;
+            color: $cor-primaria;
+            padding-right: 100px;
+            font-size: 48px;
+        }
+    }
+  
+    
     input {
         display: none;
     }

@@ -52,6 +52,21 @@ table {
   border-spacing: 0;
 }
 
+header {
+  display: flex;
+  height: 10vh;
+  justify-content: space-between;
+  align-items: center;
+}
+header .chances {
+  text-align: center;
+}
+header .chances p {
+  font-family: "Vast Shadow", cursive;
+  color: #865DFF;
+  padding-right: 100px;
+  font-size: 48px;
+}
 header input {
   display: none;
 }
@@ -85,37 +100,39 @@ header label {
 }
 
 body {
-  font-family: "Vast Shadow", cursive;
   background-color: #191825;
+}
+body main {
+  font-family: "Vast Shadow", cursive;
   color: #865DFF;
   font-size: 28px;
   display: flex;
   justify-content: center;
-  height: 100vh;
   align-items: center;
   text-align: center;
   flex-direction: column;
   transition: 2s;
+  height: 90vh;
 }
-body h1 {
+body main h1 {
   font-size: 4em;
 }
-body h3 {
+body main h3 {
   margin-top: 10px;
   font-size: 2em;
 }
-body .mensagem {
+body main .mensagem {
   font-size: 1.5em;
   margin-top: 20px;
 }
-body .mensagem .box {
+body main .mensagem .box {
   border: 2px solid #865DFF;
   border-radius: 10px;
   margin: 20px;
   display: inline-block;
   font-size: 3em;
 }
-body #buttonStart {
+body main #buttonStart {
   font-family: "Vast Shadow", cursive;
   background-color: transparent;
   padding: 10px;
@@ -125,10 +142,25 @@ body #buttonStart {
   margin-top: 10px;
   cursor: pointer;
 }
-body #buttonStart:hover {
+body main #buttonStart:hover {
   background-color: #865DFF;
 }
 
+header {
+  display: flex;
+  height: 10vh;
+  justify-content: space-between;
+  align-items: center;
+}
+header .chances {
+  text-align: center;
+}
+header .chances p {
+  font-family: "Vast Shadow", cursive;
+  color: #865DFF;
+  padding-right: 100px;
+  font-size: 48px;
+}
 header input {
   display: none;
 }
