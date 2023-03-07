@@ -17,6 +17,7 @@
 </p>Recommended use for using the application is Google Chrome by API (Web Speech API)</p>
 
 <h2 >Version Mobile</h2>
+<img src="https://user-images.githubusercontent.com/41201436/223500098-2ef0e547-dc75-4a3e-a193-2b6df5a4d1e7.gif">
 
 <h2>Version Desktop</h2>
 <img src="https://user-images.githubusercontent.com/41201436/222994991-9141e034-fe44-4e94-960e-a38b98ff5016.gif">
