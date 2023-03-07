@@ -9,9 +9,9 @@
 </div>
 
 <h2>:hammer:Project Status:hammer:</h2>
-<p>Javascript part finalized, but I will add a mobile version;</p>
+<p>Javascript part finalized, the mobile version of the application has been added</p>
 <h2>Project description</h2>
-<p>Aplication with target developer get voice of user, project also has night mode and accounting for player errors</p>
+<p>Aplication with target developer get voice of user, project also has night mode and accounting for player errors (the initial application was only a desktop version, it was adapted for mobile)</p>
 
 <h2>Suggestion used</h2>
 </p>Recommended use for using the application is Google Chrome by API (Web Speech API)</p>
@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/41201436/223500098-2ef0e547-dc75-4a3e-a193-2b6df5a4d1e7.gif">
 
 <h2>Version Desktop</h2>
-<img src="https://user-images.githubusercontent.com/41201436/222994991-9141e034-fe44-4e94-960e-a38b98ff5016.gif">
+<img src="https://user-images.githubusercontent.com/41201436/223500826-c642b46c-a012-4b6f-afb5-6e3091ad0b12.gif">
 
 
 <h2>Technologies used</h2>
