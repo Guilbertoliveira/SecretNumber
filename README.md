@@ -9,7 +9,7 @@
 </div>
 
 <h2>:hammer:Project Status:hammer:</h2>
-<p>Javascript part finalized, the mobile version of the application has been added</p>
+<p>Finished project.</p>
 <h2>Project description</h2>
 <p>Aplication with target developer get voice of user, project also has night mode and accounting for player errors (the initial application was only a desktop version, it was adapted for mobile)</p>
 
